@@ -1,4 +1,4 @@
-# write your code here
+
 
 import math
 import numpy as np
@@ -21,7 +21,7 @@ if __name__ == '__main__':
         open('../Data/Nobel_laureates.json', 'wb').write(r.content)
         sys.stderr.write("[INFO] Loaded.\n")
 
-    # write your code here
+ 
 
 
 #cleaning data
