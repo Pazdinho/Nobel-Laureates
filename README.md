@@ -1,4 +1,4 @@
-# Nobel-Laureates
+# Nobel Laureates Analysis
 
 This is the *Nobel Laureates Analysis* project I made myself.
 
